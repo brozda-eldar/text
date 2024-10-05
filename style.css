@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    text-align: center;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    wr
+}
+li{
+    position: relative;
+    width: 600px;
+    height: 470px;
+    margin-bottom: 50px;
+}
+img{
+
+    height: 100%;
+    width: 100%;
+}
+p{
+    margin-bottom: 16px;
+}
+.btn_block{
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+}
